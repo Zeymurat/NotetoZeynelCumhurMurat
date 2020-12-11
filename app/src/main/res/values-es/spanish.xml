@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nota para Zeynel Cumhur Murat</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_add">add</string>
+    <string name="title_hint">Título</string>
+    <string name="description_hint">Descripción</string>
+    <string name="idea_text">Idea</string>
+    <string name="important_text">Importante</string>
+    <string name="todo_text">Quehacer</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="ok_button">Vale</string>
+    <string name="settings_title">Configuración</string>
+    <string name="title_activity_settings">Configuración</string>
+</resources>
